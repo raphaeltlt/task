@@ -15,7 +15,7 @@ LICENSE [MIT](./license.md)
 5. [Проверка состояния репозитория](/status.md)
 6. [Просмотр истории проекта](/history.md)
 7. [Создание ветки](/branch.md)
-8. [Создание тэгов версий](/branch.md)
+8. [Создание тэгов версий](/tag.md)
 ---
 
 GIT logo by Jason Long - http://git-scm.com/downloads/logosG,
