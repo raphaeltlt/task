@@ -8,8 +8,14 @@ LICENSE [MIT](./license.md)
 ---
 ### Содержание:
 
-1. Что- то
-2. [git add](/add.md)
+1. [Введение](/intro.md)
+2. [Инициализация](/init.md)
+3. [Добавление файлов](/add.md)
+4. [Добавление страницы в репозиторий](/commit.md)
+5. [Проверка состояния репозитория](/status.md)
+6. [Просмотр истории проекта](/history.md)
+7. [Создание ветки](/branch.md)
+8. [Создание тэгов версий](/branch.md)
 ---
 
 GIT logo by Jason Long - http://git-scm.com/downloads/logosG,
