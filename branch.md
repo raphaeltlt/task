@@ -7,5 +7,5 @@
 Чтобы добавить новую ветку, используйте команду:
 
 ```bash=
-git checkout -b style
+git branch style
 ```
